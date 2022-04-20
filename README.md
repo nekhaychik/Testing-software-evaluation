@@ -4,3 +4,4 @@
 ### [Lab 2](https://github.com/nekhaychik/Testing-software-evaluation/blob/main/Lab_2.pdf)  
 ### [Lab 3](https://github.com/nekhaychik/Testing-software-evaluation/blob/main/Lab_3.xlsx)
 ### [Lab 4](https://github.com/nekhaychik/Testing-software-evaluation/blob/main/Lab_4.xlsx)
+### [Lab 5](https://github.com/nekhaychik/Testing-software-evaluation/blob/main/Lab_5.xlsx)
